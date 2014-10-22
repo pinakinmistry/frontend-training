@@ -8,6 +8,7 @@ WEEK 1:
 DAY 1:
   - HTML & CSS
   - Layout and Positioning
+  - Twitter Bootstrap
   - Git & Github
   - Create your personal page using github page
 
@@ -16,7 +17,6 @@ DAY 2:
   - Create your first game
 
 DAY 3:
-  - Twitter Bootstrap
   - Functional JavaScript
 
 DAY 4:
